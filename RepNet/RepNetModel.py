@@ -8,9 +8,7 @@ Note:
     conv feature extractor is different from that used in original paper
     check dilation on temporal 3d conv
     pairwise_l2_distance transpose for b
-    does get sims actually work
     input projection kernel_regularizer
-    transformer_layers_config dff needed ???
 """
 
 import torch
